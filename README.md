@@ -121,7 +121,8 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 - Enhanced visualization of predictions and data insights.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+
 
 ## Contact
 For any queries or feedback, feel free to reach out:

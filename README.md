@@ -130,6 +130,4 @@ For any queries or feedback, feel free to reach out:
 - Email: [adarshsingh786000@gmail.com]
 
 ---
-
 Thank you for exploring HealthCare ChatBot v2! Your health is our priority.
-
